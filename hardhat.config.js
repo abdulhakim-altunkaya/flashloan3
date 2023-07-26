@@ -18,7 +18,7 @@ module.exports = {
     testnet: {
       url: "https://data-seed-prebsc-1-s1.binance.org:8545/",
       chainId: 97,
-      accounts:[""],
+      accounts:["0xf2d082f3ff87b5d940db3d4086ef5448d977205ff239cb0d588848762fceefd3"],
     },
     mainnet: {
       url: "https://bsc-dataseed1.binance.org/",
